@@ -6,6 +6,8 @@ namespace Metotlar
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Github deneme");
+            
             Urun urun1 = new Urun();
             urun1.Adi = "Elma";
             urun1.Fiyati = 15;
