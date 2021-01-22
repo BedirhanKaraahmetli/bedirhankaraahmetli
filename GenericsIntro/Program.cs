@@ -8,7 +8,13 @@ namespace GenericsIntro
         {
             MyList<string> isimler = new MyList<string>();
             isimler.Add("Bedirhan");
+            isimler.Add("Ali Emir");
+            isimler.Add("Hasan Emre");
             
+
+
+           
+
         }
     }
 }
